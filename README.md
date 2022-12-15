@@ -27,8 +27,8 @@
 ### :man_technologist: &nbsp;About me:
 - :earth_americas: :brazil: &nbsp;I'm Lucas Nascimento, a young Brazilian, a young human.
 - :computer: :iphone: &nbsp;Currently studying programming in general, for now I'm inclined to focus on mobile development after finishing my degree.
-- :thought_balloon: :dizzy: &nbsp;Expand, explore, expand, conquer. Always willing to learn more.
-- :sleeping_bed: :cup_with_straw: &nbsp;8 hours of sleep, 2 litres of water. Always. If possible.
+- :thought_balloon: :dizzy: &nbsp;Create, explore, expand, conquer. Always willing to learn more.
+- :sleeping_bed: :cup_with_straw: &nbsp;8 hours of sleep, 2 liters of water. Always. If possible.
 
 ---
 
