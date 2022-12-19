@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <p>
     <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="Header"/>
-    <br> hi there <br> how did you get here? <br> is this a coincidence?
+    <h6>hi <br> how did you get here? <br> is this a coincidence?</h6>
   </p>
 </div>
 
@@ -12,6 +12,9 @@
 
 <div id="badges" align="center">
   <p>
+    <a href="https://www.linkedin.com/in/lucasnasc04/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/>
+    </a>
     <a href="https://www.reddit.com/u/nasclucas04">
       <img src="https://img.shields.io/badge/Reddit-red?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit badge"/>
     </a>
