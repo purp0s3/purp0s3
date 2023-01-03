@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <p>
     <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="Header"/>
-    <h6>hi <br> how did you get here? <br> is this a coincidence?</h6>
+    <h6>hi there<br>how did you get here?<br>is this a coincidence?</h6>
   </p>
 </div>
 
@@ -28,10 +28,10 @@
 ---
 
 ### :man_technologist: &nbsp;About me:
-- :earth_americas: :brazil: &nbsp;I'm Lucas Nascimento, a young Brazilian, a young human.
-- :computer: :iphone: &nbsp;Currently studying programming in general, for now I'm inclined to focus on mobile development after finishing my degree.
-- :thought_balloon: :dizzy: &nbsp;Create, explore, expand, conquer. Always willing to learn more.
-- :sleeping_bed: :cup_with_straw: &nbsp;8 hours of sleep, 2 liters of water. Always. If possible.
+- :earth_americas: &nbsp;I'm Lucas Nascimento, a young human.
+- :computer: &nbsp;Programming student.
+- :thought_balloon: &nbsp;Create, explore, expand, conquer. Always willing to learn more.
+- :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water. Always. If possible.
 
 ---
 
@@ -39,14 +39,13 @@
 
 <div id="langs_tools" align="center">
   <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
     <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/vegas.png" title="Vegas Pro" alt="Vegas Pro" width="40" height="40"/>&nbsp;
   </p>
@@ -54,5 +53,6 @@
   
 ---
 
-### :fire: &nbsp;My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=purp0s3)](https://git.io/streak-stats)
+### :rocket: &nbsp;My stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purp0s3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=purp0s3&mode=weekly&fire=4F94EF&ring=4F94EF&currStreakLabel=4F94EF)](https://git.io/streak-stats)
