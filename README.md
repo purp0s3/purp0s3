@@ -18,7 +18,7 @@
     <a href="https://www.reddit.com/u/nasclucas04">
       <img src="https://img.shields.io/badge/Reddit-red?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit badge"/>
     </a>
-    <a href="https://www.paypal.com/donate/?business=SKMYRAY32DX6A&no_recurring=1&currency_code=USD">
+    <a href="https://www.paypal.com/donate/?business=G56V3FR2QEAQ8&no_recurring=0&item_name=Making+me+a+donation+allows+me+to+keep+seeking+my+purpose.&currency_code=USD">
       <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/donate.png" alt="Donate button"/ height="28px">
     </a> <br>
     <img src="https://komarev.com/ghpvc/?username=purp0s3&style=for-the-badge&color=blue" alt="Profile views"/>
