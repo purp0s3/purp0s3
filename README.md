@@ -59,3 +59,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=purp0s3&fire=4F94EF&ring=4F94EF&currStreakLabel=4F94EF&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=purp0s3&&mode=weekly&fire=4F94EF&ring=4F94EF&currStreakLabel=4F94EF&theme=default" />
 </picture>
+
+---
+
+<div id="footer" align="center">
+  <p>
+    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer.png" alt="Footer"/>
+  </p>
+</div>
