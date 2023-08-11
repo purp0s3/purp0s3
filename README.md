@@ -28,8 +28,7 @@
 ---
 
 ### :man_technologist: &nbsp;About me:
-- :earth_americas: &nbsp;I'm Lucas Nascimento, a young human.
-- :computer: &nbsp;Programming student.
+- :computer: &nbsp;Dev student.
 - :thought_balloon: &nbsp;Create, explore, expand, conquer. Always willing to learn more.
 - :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water. Always. If possible.
 
