@@ -1,17 +1,19 @@
-<h5 align="center">looking for</h5>
+<h6 align="center">looking for</h6>
 <h1 align="center">purp0s3</h1>
-
-<div id="header" align="center">
-  <p>
-    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="Header"/>
-    <h6>hi there<br>how did you get here?<br>is this a coincidence?</h6>
-  </p>
-</div>
 
 <br>
 
+<div id="header" align="center">
+  <p>
+    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="the first moment of contact is always the most extreme"/>
+    <h6>hey,<br><br>how did you end up here?<br><br>is this a coincidence?...</h6>
+  </p>
+</div>
+
+
 <div id="badges" align="center">
   <p>
+    <h5>I'm on</h5>
     <a href="https://www.linkedin.com/in/lucasnasc04/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/>
     </a>
@@ -28,11 +30,13 @@
 ---
 
 ### :man_technologist: &nbsp;About me:
-- :computer: &nbsp;Dev student.
-- :thought_balloon: &nbsp;Create, explore, expand, conquer. Always willing to learn more.
-- :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water. Always. If possible.
-
+- :computer: &nbsp;Dev student. Lots of studying.
+- :thought_balloon: &nbsp;Create, explore, expand, conquer.
+- :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water.
+  
 ---
+
+<!--- saving this just in case
 
 ### :hammer_and_wrench: &nbsp;Languages and tools:
 
@@ -49,10 +53,12 @@
     <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/vegas.png" title="Vegas Pro" alt="Vegas Pro" width="40" height="40"/>&nbsp;
   </p>
 </div>
-  
+
 ---
 
-### :rocket: &nbsp;My stats:
+-->
+
+### :bulb:	&nbsp;My stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purp0s3&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=purp0s3&fire=4F94EF&ring=4F94EF&currStreakLabel=4F94EF&theme=dark" />
@@ -63,6 +69,7 @@
 
 <div id="footer" align="center">
   <p>
-    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer.png" alt="Footer"/>
+    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer.png" alt="THE MOST PROFOUND THINGS ARE INEXPRESSIBLE"/>&nbsp;
+    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer1.png" alt="Footer"/>
   </p>
 </div>
