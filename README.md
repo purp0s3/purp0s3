@@ -67,11 +67,11 @@
 
 ---
 
-<h3 align="right">thoughts</h3>
+<h3 align="center"> :sparkles: thoughts :sparkles: </h3>
 
 <div id="footer" align="center">
   <p>
-    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer.png" alt="THE MOST PROFOUND THINGS ARE INEXPRESSIBLE"/ height="360px" width="694px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <a href= "https://github.com/purp0s3/purp0s3/blob/main/looking.txt"> <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer1.png" alt="I'm constantly trying to explaing something incommunicable"/ height="360px" width="255px"> </a>
+    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer.png" alt="THE MOST PROFOUND THINGS ARE INEXPRESSIBLE"/ height="333px" width="642px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href= "https://github.com/purp0s3/purp0s3/blob/main/looking.txt"> <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer1.png" alt="I'm constantly trying to explaing something incommunicable"/ height="333px" width="236px"> </a>
   </p>
 </div>
