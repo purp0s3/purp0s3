@@ -71,7 +71,7 @@
 
 <div id="footer" align="center">
   <p>
-    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer.png" alt="THE MOST PROFOUND THINGS ARE INEXPRESSIBLE"/ height="363px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <a href= "https://github.com/purp0s3/purp0s3/blob/main/looking.txt"> <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer1.png" alt="I'm constantly trying to explaing something incommunicable"/ height="363px"> </a>
+    <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer.png" alt="THE MOST PROFOUND THINGS ARE INEXPRESSIBLE"/ height="360px" width="694px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href= "https://github.com/purp0s3/purp0s3/blob/main/looking.txt"> <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer1.png" alt="I'm constantly trying to explaing something incommunicable"/ height="360px" width="255px"> </a>
   </p>
 </div>
