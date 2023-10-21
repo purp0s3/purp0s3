@@ -71,7 +71,7 @@
 
 <div id="footer" align="center">
   <p>
-    <a href= "https://github.com/purp0s3/purp0s3/blob/main/looking.txt"> <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer1.png" alt="I'm constantly trying to explaing something incommunicable"/ height="333px" width="236px"> </a>
+    <a href= "https://github.com/purp0s3/purp0s3/blob/main/looking.txt"> <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer1.png" alt="I'm constantly trying to explaing something incommunicable"/ height="333px" width="236px"> </a> </p> </br>
     <a href= "https://github.com/purp0s3/purp0s3/blob/main/looking.txt"> <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/footer2.png"/> </a>
   </p>
 </div>
