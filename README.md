@@ -1,4 +1,4 @@
-<h6 align="center">looking for</h6>
+<!-- <h6 align="center">looking for</h6> -->
 <h1 align="center">purp0s3</h1>
 
 <br>
@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <p>
     <img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="the first moment of contact is always the most extreme"/>
-    <h6>hey,<br><br>how did you end up here?<br><br>is this a coincidence?...</h6>
+    <h6>hey,<br><br>how did you end up here?<br><br>is this a coincidence?</h6>
   </p>
 </div>
 
@@ -30,13 +30,14 @@
 ---
 
 ### :man_technologist: &nbsp;About me:
-- :computer: &nbsp;Dev student. Lots of studying.
+- :computer: &nbsp;IT student.
 - :thought_balloon: &nbsp;Create, explore, expand, conquer.
 - :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water.
+- :keyboard: &nbsp;HTML, CSS, Swift, Java, Javascript, SQL.
   
 ---
 
-<!--- saving this just in case
+<!-- saving this just in case
 
 ### :hammer_and_wrench: &nbsp;Languages and tools:
 
@@ -65,9 +66,11 @@
     <img src="https://streak-stats.demolab.com?user=purp0s3&&mode=weekly&fire=4F94EF&ring=4F94EF&currStreakLabel=4F94EF&theme=default" />
 </picture>
 
+<!-- saving this just in case
+
 ---
 
-<!-- <h3 align="center"> :sparkles: thoughts :sparkles: </h3> -->
+<h3 align="center"> :sparkles: thoughts :sparkles: </h3>
 
 <div id="footer" align="center">
   <p>
@@ -76,7 +79,7 @@
   </p>
 </div>
 
-<!--- saving this just in case
+
 
 <div id="footer" align="center">
   <p>
