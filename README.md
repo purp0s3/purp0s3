@@ -29,7 +29,7 @@
 
 ---
 
-### :man_technologist: &nbsp;About me:
+### 👨‍💻: &nbsp;About me:
 - :computer: &nbsp;IT student.
 - :thought_balloon: &nbsp;Create, explore, expand, conquer.
 - :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water.
@@ -59,7 +59,7 @@
 
 -->
 
-### :bulb:	&nbsp;My stats:
+### 💡:	&nbsp;My stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purp0s3&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=purp0s3&fire=4F94EF&ring=4F94EF&currStreakLabel=4F94EF&theme=dark" />
