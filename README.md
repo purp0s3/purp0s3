@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
   <p>
-    <a href="https://github.com/purp0s3/purp0s3/blob/main/untitled/looking.html"><img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="the first moment of contact is always the most extreme"/></a>
+    <a href="https://purp0s3.github.io/untitled/looking.html"><img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="the first moment of contact is always the most extreme"/></a>
     <h6>hey,<br><br>how did you end up here?<br><br>is this a coincidence?</h6>
   </p>
 </div>
