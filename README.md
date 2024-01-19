@@ -33,7 +33,8 @@
 - :computer: &nbsp;IT student.
 - :thought_balloon: &nbsp;Create, explore, expand, conquer.
 - :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water.
-- :keyboard: &nbsp;HTML, CSS, Swift, Java, Javascript, SQL.
+- :keyboard: &nbsp;HTML, CSS, Swift, Java, Javascript, Python, SQL.
+- :computer: &nbsp;MySQL, Git, Apache Tomcat, VSCode, Eclipse, Xcode, Android Studio.
   
 ---
 
