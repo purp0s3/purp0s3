@@ -5,7 +5,9 @@
 
 <div id="header" align="center">
   <p>
+<!--
     <a href="https://purp0s3.github.io/untitled/looking.html"><img src="https://github.com/purp0s3/purp0s3/blob/main/imgs/header.png" alt="the first moment of contact is always the most extreme"/></a>
+-->
     <h6>hey,<br><br>how did you end up here?<br><br>is this a coincidence?</h6>
   </p>
 </div>
@@ -30,7 +32,7 @@
 ---
 
 ### 👨‍💻 &nbsp;About me:
-- :computer: &nbsp;IT student.
+- :computer: &nbsp;Dev student.
 - :thought_balloon: &nbsp;Create, explore, expand, conquer.
 - :sleeping_bed: &nbsp;8 hours of sleep, 2 liters of water.
 - :keyboard: &nbsp;HTML, CSS, Swift, Java, Javascript, Python, SQL.
