@@ -16,6 +16,7 @@
 <div id="badges" align="center">
   <p>
     <h5>I'm on</h5>
+    <a href="https://www.purp0s3.com">purp0s3.com</a><br><br>
     <a href="https://www.linkedin.com/in/purp0s3/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge"/>
     </a>
